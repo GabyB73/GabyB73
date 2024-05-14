@@ -25,7 +25,7 @@ Soy una desarrolladora apasionada por la tecnología. Recientemente he completad
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-📫 Me puedes contactar en:
+### 📫 Me puedes contactar en:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geb.beg.73@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-bustamante-)
  
